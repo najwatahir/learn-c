@@ -1,0 +1,5 @@
+return statement is a function that return a value. simply, return statement doesn't have a value. but, it produces (return) a value. for some simple case, it helps with calculation.
+
+so everytime the function is called, the value will be sent to return statement, and return statement will return the value to where the function is called.
+
+(i hope this is correct :D)

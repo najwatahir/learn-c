@@ -1,0 +1,7 @@
+sqrt = square root
+pow = power of number (n ^ n)
+round = round a number to the closest
+ceil = round a number up
+floor = round a number down
+fabs = modulus
+log = logarithm

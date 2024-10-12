@@ -1,0 +1,5 @@
+LOGICAL OPERATORS
+
+&& == AND -> checks if 2 conditions are true
+|| == OR -> checks if atleast one condition is true
+! == NOT -> reverses the state of a condition

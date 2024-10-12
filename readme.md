@@ -1,0 +1,1 @@
+### My study repository about C programming. All resources from Bro Code on YouTube and some of my personal notes.

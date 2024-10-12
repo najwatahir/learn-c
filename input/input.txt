@@ -1,0 +1,10 @@
+The difference of scanf() and fgets():
+1. scanf()
+-> scanf() used to read input that parsed based on the given format (%d, %f, etc)
+-> can't read white spaces
+
+2. fgets()
+-> read all line as a string
+-> can read white spaces
+
+more detail explanation will be on string function

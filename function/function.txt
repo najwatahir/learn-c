@@ -1,0 +1,14 @@
+parameter = a variable that defined in a function declaration.
+
+example: birthday(int A, int B) {
+    printf("hello);
+}
+
+(int A, int B) is the parameter
+
+
+argument = a data that send when the function is called. so simply, argument (the data) fills parameter when the function is called
+
+example: birthday(1, 2);
+parameter: int A, int B
+argument: 1, 2
